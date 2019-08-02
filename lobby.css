@@ -1,0 +1,168 @@
+body {
+	margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+	background-size: cover;
+}
+
+.dashboard {
+	background-color: #D8D8D8;
+	width: 100%;
+	height: 70px;
+	opacity: 0.8;
+}
+
+.logo {
+	color: #2E64FE;
+	float: left;
+	width: 15%;
+	height: 40px;
+	font-weight: 700;
+	font-size: 45px;
+	margin-top: 10px;
+	margin-left: 2%;
+}
+
+.homebtn {
+	background-color: #D8D8D8;
+	color: #2E64FE;
+	font-weight: 700;
+	border: 2px solid #2E64FE;
+	border-radius: 20px;
+	width: 8%;
+	height: 40px;
+	margin-left: 5%;
+	margin-top: 15px;
+	float: right;
+}
+
+.homebtn:hover {
+	background-color: #2E64FE;
+	color: white;
+}
+
+.sbtn {
+	background-color: #D8D8D8;
+	color: #04B404;
+	font-weight: 700;
+	border: 2px solid #04B404;
+	border-radius: 20px;
+	width: 8%;
+	height: 40px;
+	margin-left: 5%;
+	margin-top: 15px;
+	float: right;
+}
+
+.sbtn:hover {
+	background-color: #04B404;
+	color: white;
+}
+
+.logoutbtn {
+	background-color: #D8D8D8;
+	color: #DF0101;
+	font-weight: 700;
+	border: 2px solid #DF0101;
+	border-radius: 20px;
+	width: 8%;
+	height: 40px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 15px;
+	float: right;
+}
+
+.logoutbtn:hover {
+	background-color: #DF0101;
+	color: white;
+}
+
+.titel {
+	margin-top: 15px;
+	color: #2E64FE;
+	font-size: 40px;
+	text-align: center;
+}
+
+.welbox {
+	font-size: 15px;
+	font-weight: 700;
+	border-top: 10px dashed #2E64FE;
+	border-bottom: 10px dashed #2E64FE;
+	border-left: 10px solid #2E64FE;
+	border-right: 10px solid #2E64FE;
+	text-align: center;
+	padding: 20px;
+	
+	
+	
+}
+
+.game1 {
+	background-color: #2E64FE;
+	color: white;
+	border-radius: 10px;
+	width: 18%;
+	height: 130px;
+	margin-left: 5%;
+	margin-top: 30px;
+	padding: 5px 5px 0px 5px;
+	float: left;
+	
+}
+
+.joinbtn {
+	background-color: yellow;
+	color: black;
+	font-weight: 1000;
+	border: 2px solid yellow;
+	border-radius: 30px;
+	width: 60%;
+	height: 40px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	float: left;
+}
+
+.gameid{
+	color: yellow;
+	font-weight: 700;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.creator{
+	color: black;
+	font-weight: 700;
+}
+
+.gameadd {
+	background-color: yellow;
+	border-radius: 10px;
+	width: 18%;
+	height: 130px;
+	margin-left: 5%;
+	margin-top: 30px;
+	padding: 5px 5px 0px 5px;
+	float: left;
+}
+
+.addbtn {
+	background-color: yellow;
+	color: black;
+	font-weight: 1000;
+	font-size: 40px;
+	border: 2px solid black;
+	border-radius: 100%;
+	width: 30%;
+	height: 80px;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 25px;
+	float: left;
+}
+	
