@@ -56,5 +56,5 @@ body{
     cursor: pointer;
 }
 a:link{
-    color: none;
+    text-decoration: none;
 }
